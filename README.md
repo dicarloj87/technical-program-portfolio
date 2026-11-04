@@ -12,7 +12,7 @@ My interest in technology extends beyond my professional responsibilities. Throu
 A digital incident management platform designed to improve coordination, resource tracking, and information sharing during critical incidents.
 
 ### UAS Operations Management
-A project focused on bringing drone operations, personnel management, training, and operational information into a more centralized system.
+A project focused on bringing drone operations, personnel management, training, and operational information into a centralized system.
 
 ### Aviation Weather Application
 An application designed to make aviation weather information easier to access and interpret for operational use.
