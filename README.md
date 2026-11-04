@@ -8,17 +8,17 @@ My interest in technology extends beyond my professional responsibilities. Throu
 
 ## Projects
 
-### Incident Command Board
-A digital incident management platform designed to improve coordination, resource tracking, and information sharing during critical incidents.
+### [Incident Command Board](projects/incident-command/README.md)
+A digital incident management platform designed to improve coordination, resource tracking, and information sharing during emergency operations.
 
-### UAS Operations Management
-A project focused on bringing drone operations, personnel management, training, and operational information into a centralized system.
+### [UAS Operations Management Platform](projects/uas-operations/README.md)
+A centralized platform designed to support public safety drone programs through personnel management, training records, flight documentation, equipment tracking, and operational coordination.
 
-### Aviation Weather Application
-An application designed to make aviation weather information easier to access and interpret for operational use.
+### [Aviation Weather Application](projects/aviation-weather/README.md)
+A functional aviation weather application that provides accessible, easy-to-interpret METAR and TAF information. This project evolved into the larger UAS Operations Management Platform.
 
-### Professional Portfolio Website
-A personal website I created to showcase my professional background, leadership experience, technical projects, and career development. The project has given me hands-on experience with website design, deployment, hosting, and analytics. 
+### [Professional Portfolio Website](projects/professional-portfolio/README.md)
+A professional website developed through AI-assisted development, incorporating website analytics and a digital business card with QR code functionality.
 
 [View My Professional Portfolio](https://joseph-dicarlo-portfolio.onrender.com/?utm_source=github&utm_medium=readme&utm_campaign=professional_portfolio)
 
